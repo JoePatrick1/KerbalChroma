@@ -1,0 +1,8 @@
+c:\users\joe\documents\Desktops\150914\Kerbal.Space.Program.v1.0.4.861\GameData\Greenscreen\Plugins\KerbalGreenscreen.dll
+c:\users\joe\documents\Desktops\150914\Kerbal.Space.Program.v1.0.4.861\GameData\Greenscreen\Plugins\KerbalGreenscreen.pdb
+c:\users\joe\documents\visual studio 2015\Projects\KerbalGreenscreen\KerbalGreenscreen\obj\Release\KerbalGreenscreen.csprojResolveAssemblyReference.cache
+c:\users\joe\documents\visual studio 2015\Projects\KerbalGreenscreen\KerbalGreenscreen\obj\Release\KerbalGreenscreen.dll
+c:\users\joe\Desktop\Kerbal.Space.Program\GameData\Greenscreen\Plugins\KerbalGreenscreen.dll
+c:\users\joe\Desktop\Kerbal.Space.Program\GameData\Greenscreen\Plugins\KerbalGreenscreen.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\GameData\Greenscreen\Plugins\KerbalGreenscreen.dll
+C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\GameData\GreenscreenMod\Plugins\KerbalGreenscreen.dll
